@@ -1,0 +1,20 @@
+body {
+    
+   background-color: aqua;
+    font-size: 25px;
+    
+}
+
+.photo {
+    
+    
+        
+}
+
+.infophoto{
+    
+    display: flex;
+    justify-content: space-between;
+    
+        
+}
