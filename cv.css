@@ -3,6 +3,7 @@ body {
    background-color: aqua;
     font-size: 25px;
     
+    
 }
 
 .photo {
@@ -17,4 +18,21 @@ body {
     justify-content: space-between;
     
         
+}
+
+.etude {
+    text-align: center;
+}
+
+table {
+    width:1000px;
+
+}
+.experience{
+    text-align: center;
+}
+
+hr{
+    
+    color: blue;
 }
